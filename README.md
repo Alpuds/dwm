@@ -25,12 +25,12 @@ I haven't kept `man dwm`/`dwm.1` updated though. PRs welcome on that, lol.
 
 ## Installation for newbs
 
-```
-git clone https://github.com/Alpuds/dwm
+```bash
+git clone https://github.com/Alpuds/dwm.git
 cd dwm
 sudo make install
 ```
 
-## Please install `libxft-bgra`!
+### You must also install `libxft-bgra`!
 
 This build of dwm does not block color emoji in the status/info bar, so you must install [libxft-bgra](https://aur.archlinux.org/packages/libxft-bgra/) from the AUR, which fixes a libxft color emoji rendering problem, otherwise dwm will crash upon trying to render one. Hopefully this fix will be in all libxft soon enough.

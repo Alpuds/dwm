@@ -130,7 +130,7 @@ To type capital letters, hold down the \f(CWShift\fP key\(emthat might sound lik
 .ITEM
 \f(CWMod+F\fP \(en Floating (AKA normie) mode
 .ITEM
-\f(CWMod+y\fP \(en Fibbonacci spiral mode
+\f(CWMod+y\fP \(en Fibonacci spiral mode
 .ITEM
 \f(CWMod+Y\fP \(en Dwindle mode (similar to Fibonacci)
 .ITEM
@@ -151,7 +151,7 @@ To type capital letters, hold down the \f(CWShift\fP key\(emthat might sound lik
 .ITEM
 \f(CWMod+R\fP \(en htop (task manager, system monitor that R*dditors use to look cool)
 .ITEM
-\f(CWMod+V\fP \(en neomutt (email) \(en Must be first configured by running \f(CWmw add\fP.
+\f(CWMod+alt+v\fP \(en neomutt (email) \(en Must be first configured by running \f(CWmw add\fP.
 .ITEM
 \f(CWMod+E\fP \(en abook (contacts, addressbook, emails)
 .ITEM
